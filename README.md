@@ -62,7 +62,7 @@ S2S_WS_URL=Enter your Soket.ai Client WebSocket URL
 The server can be run with the following command
 
 ```bash
-$> node plivo_streaming_server.js
+$> node soketai_plivo_server.js
 Running on port <PLIVO_PORT> ...
 ```
 
